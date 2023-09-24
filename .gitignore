@@ -1,0 +1,6 @@
+.idea/
+blog/
+db.sqlite3
+main.py
+manage.py
+mysite/
